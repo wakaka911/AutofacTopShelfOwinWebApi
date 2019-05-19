@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacTopShelfOwinWebApi", "AutofacTopShelfOwinWebApi\AutofacTopShelfOwinWebApi.csproj", "{1897B3B4-B60C-47D4-9FA9-30DA31087F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1897B3B4-B60C-47D4-9FA9-30DA31087F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1897B3B4-B60C-47D4-9FA9-30DA31087F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1897B3B4-B60C-47D4-9FA9-30DA31087F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1897B3B4-B60C-47D4-9FA9-30DA31087F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {872781F0-28AA-41BD-8EB3-A6680306E056}
+	EndGlobalSection
+EndGlobal
